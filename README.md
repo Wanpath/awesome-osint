@@ -1825,6 +1825,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Mindbox](https://minbox.com)
 * [Mozy](http://mozy.com)
 * [Multicloud](https://www.multcloud.com)
+* [MyWorkDrive](https://www.myworkdrive.com)
 * [Onedrive](https://onedrive.live.com)
 * [Onehub](https://www.onehub.com)
 * [Otixo](http://www.otixo.com)
